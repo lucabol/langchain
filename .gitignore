@@ -1,0 +1,4 @@
+config.py
+faiss_cache
+data
+__pycache__
